@@ -16,15 +16,15 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    #- text: Shop
+    #  url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: logo1.png
 author: Yong Joon Lee
 author_bio: Hi, my name is Yong Joon Lee. I am interested in bridging the gap between text and speech. I am studying various topics such as ASR, Speech Super Resolution, TTS.
 
@@ -51,12 +51,13 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: korea.png
+                college_name: Korea University
+                college_url: https://www.korea.ac.kr/mbshome/mbs/university/index.do
+                college_degree: Statistics
+                description: Bachelor of Statistics
                 visibility: true
+                
 
 # Projects
 author_project_details:
@@ -92,11 +93,11 @@ hyvor_talk_website_id: 476
 #wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: eddie030103@gmail.com
+formspree_email: infected4098@naver.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
