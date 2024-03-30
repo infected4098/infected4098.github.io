@@ -1,5 +1,5 @@
 title: Yong Joon Lee
-subtitle: A homepage of Yong Joon Lee
+subtitle: Student
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -26,7 +26,7 @@ urls:
 
 author_logo: photo.png
 author: Yong Joon Lee
-author_bio: Hi, my name is Yong Joon Lee. I am interested in bridging the gap between text and speech. I am studying various topics such as ASR, Speech Super Resolution, TTS.
+author_bio: Hi, my name is Yong Joon Lee. I am interested in bridging the gap between text and speech. I am studying various topics such as ASR, Speech Super Resolution, TTS. You can check my full <a href="https://drive.google.com/file/d/19MbUcvhvdZxX38Qs_j1_WhrDvtwy-MZp/view?usp=drive_link">CV </a> here. 
 
 author_email: "infected4098@naver.com"
 author_location: South Korea
