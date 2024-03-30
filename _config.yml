@@ -43,12 +43,12 @@ author_work_experiences:
               description: I was an undergraduate intern in Inteligent Signal Processing Lab (ISPL) at Korea University. I studied various
    topics in audio deep learning, mainly focusing on ASR and TTS.
               visibility: true
-            #- company_name: Microsoft
-            #  company_logo: microsoft.png
-            #  company_url: https://microsoft.com
-            #  designation: Azure Developer
-            #  description: Worked on various Azure Cloud Products
-            #  visibility: true
+            - company_name: Microsoft
+              company_logo: microsoft.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: true
 
 # Education
 author_education_details:
