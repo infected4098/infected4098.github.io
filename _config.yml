@@ -30,9 +30,9 @@ author_bio: Hi, my name is Yong Joon Lee. I am interested in bridging the gap be
 
 author_email: "infected4098@naver.com"
 author_location: South Korea
-#author_website_url: ""
+author_website_url: "https://velog.io/@infected4098/posts"
 typewrite-text: Interested in bridging the gap between text and speech.
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: wallpaper.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
