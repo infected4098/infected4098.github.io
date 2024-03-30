@@ -12,7 +12,7 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
+    - text: Projects
       url: /blog
     - text: Gallery
       url: /gallery
