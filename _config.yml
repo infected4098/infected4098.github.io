@@ -40,8 +40,7 @@ author_work_experiences:
               company_logo: google.png
               company_url: https://ispl.korea.ac.kr/
               designation: Research Intern
-              description: I was an undergraduate intern in Inteligent Signal Processing Lab (ISPL) at Korea University. I studied various
-   topics in audio deep learning, mainly focusing on ASR and TTS.
+              description: studied various audio deep learning topics
               visibility: true
             - company_name: Microsoft
               company_logo: microsoft.png
