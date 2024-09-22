@@ -4,7 +4,7 @@ author_profile: true
 permalink: /publications/
 ---
 #### [Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution](https://arxiv.org/abs/2409.09337)
-<U>Yongjoon Lee</U>, Chanwoo Kim *  
+<B>Yongjoon Lee</B>, Chanwoo Kim*  
 
 **arxiv preprint**
 
