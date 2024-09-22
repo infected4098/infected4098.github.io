@@ -1,11 +1,7 @@
 ---
-title: "Yongjoon Lee"
+title: ""
 layout: home
 author_profile: true
-excerpt: "Motivated AI researcher based in Hanam-si, Korea."
-header:
-  overlay_image: backgrounds.png
-  overlay_filter: 0.5
 ---
 
 ## About Me
