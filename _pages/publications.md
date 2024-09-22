@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 permalink: /publications/
 ---
-<img src="/assets/modelarc.jpg.jpg" alt="Alt text" width="200" height="100">
+<img src="/assets/modelarc.jpg.jpg" alt="Alt text" width="600" height="300">
 #### [Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution](https://arxiv.org/abs/2409.09337)
 <B>Yongjoon Lee</B>, Chanwoo Kim* 
 
