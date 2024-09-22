@@ -1,5 +1,5 @@
 ---
-title : "Publications"
+title : ""
 layout: single
 author_profile: true
 permalink: /publications/
