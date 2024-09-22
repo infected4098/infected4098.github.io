@@ -25,8 +25,8 @@ description              : "A personal website of my own."
 url                      : "https://infected4098.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assests/mypic.png"
-logo                     : "/assests/mypic.png"
+teaser                   : "/assets/mypic.png"
+logo                     : "/assets/mypic.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
