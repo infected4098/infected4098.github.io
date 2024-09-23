@@ -13,4 +13,4 @@ permalink: /cv/
 - **[Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution](https://arxiv.org/abs/2409.09337)**
   
 ### Curriculum Vitae
-TBD
+- A full document of Curriculum Vitae can be found **[here](https://drive.google.com/file/d/1Kz-yXB_2eWoRmzAj8sWVlJxb-2N9uXM2/view?usp=drive_link)**.
