@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/infected4098"
     - label: "Technical Blog"
-      icon: "fab fa-fw fa-book"
+      icon: "fa fa-book"
       url: "https://velog.io/@infected4098/posts"
 
 
