@@ -20,7 +20,7 @@ Speech Super-Resolution (SSR) is a task of enhancing low-resolution speech signa
 
 | Ground Truth LR | WSRGLOW | AudioSR | **Wave-U-Mamba** | Ground Truth HR |
 |-------------|-------------|-------------|-------------|--------------|
-| <audio controls src="/assets/GTLOW_norm/2_p360_008.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p360_008_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_norm/p360_008_g_audiosr.wav"></audio> | <audio controls src="/assets/OURS_norm/4_p360_008_4_.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p360_008.wav"></audio> |
+| <audio controls src="/assets/GTLOW_norm/2_p360_008.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p360_008_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_norm/5_p360_008.wav"></audio> | <audio controls src="/assets/OURS_norm/4_p360_008_4_.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p360_008.wav"></audio> |
 | ![Subtitle 6 Image](/assets/mypic.png) | ![Subtitle 7 Image](/assets/mypic.png) | ![Subtitle 8 Image](/assets/mypic.png) | ![Subtitle 9 Image](/assets/mypic.png) | ![Subtitle 10 Image](/assets/mypic.png) |
 
 ##### p361_003
@@ -37,7 +37,7 @@ Speech Super-Resolution (SSR) is a task of enhancing low-resolution speech signa
 
 | Ground Truth LR | WSRGLOW | AudioSR | **Wave-U-Mamba** | Ground Truth HR |
 |--------------|--------------|--------------|--------------|--------------|
-| <audio controls src="/assets/GTLOW_norm/2_p361_004.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p361_004_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_norm/p361_004_g_audiosr.wav"></audio> | <audio controls src="/assets/OURS_norm/4_p361_004_4.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p361_004.wav"></audio> |
+| <audio controls src="/assets/GTLOW_norm/2_p361_004.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p361_004_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_norm/5_p361_004.wav"></audio> | <audio controls src="/assets/OURS_norm/4_p361_004_4.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p361_004.wav"></audio> |
 | ![Subtitle 6 Image](/assets/mypic.png) | ![Subtitle 7 Image](/assets/mypic.png) | ![Subtitle 8 Image](/assets/mypic.png) | ![Subtitle 9 Image](/assets/mypic.png) | ![Subtitle 10 Image](/assets/mypic.png) |
 
 ##### p363_010
