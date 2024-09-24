@@ -25,7 +25,7 @@ Speech Super-Resolution (SSR) is a task of enhancing low-resolution speech signa
 
 | Ground Truth LR | WSRGLOW | AudioSR | **Wave-U-Mamba** | Ground Truth HR |
 |-------------|-------------|-------------|-------------|--------------|
-| <audio controls src="/assets/GTLOW_norm/2_p360_008.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p360_008_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_norm/5_p360_008.wav"></audio> | <audio controls src="/assets/OURS_norm/4_p360_008_4_.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p360_008.wav"></audio> |
+| <audio controls src="/assets/GTLOW_norm/2_p360_008.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p360_008_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_sliced/p360_008_g_audiosr_sliced.wav"></audio> | <audio controls src="/assets/OURS_norm/4_p360_008_4_.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p360_008.wav"></audio> |
 | ![Subtitle 6 Image](/assets/GTLOW_pngs/p360_008.png) | ![Subtitle 7 Image](/assets/WSRGLOW_pngs/p360_008.png) | ![Subtitle 8 Image](/assets/AUDIOSR_sliced_pngs/p360_008_g_audiosr_sliced.png) | ![Subtitle 9 Image](/assets/OURS_pngs/p360_008.png) | ![Subtitle 10 Image](/assets/GTHIGH_pngs/p360_008.png) |
 
 ##### p361_003 (12 kHz -> 48 kHz)
@@ -50,7 +50,7 @@ Speech Super-Resolution (SSR) is a task of enhancing low-resolution speech signa
 
 | Ground Truth LR | WSRGLOW | AudioSR | **Wave-U-Mamba** | Ground Truth HR |
 |--------------|--------------|--------------|--------------|--------------|
-| <audio controls src="/assets/GTLOW_norm/2_p363_010.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p363_010_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_sliced/p363_010_g_audiosr_sliced"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p363_010.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p363_010.wav"></audio> |
+| <audio controls src="/assets/GTLOW_norm/2_p363_010.wav"></audio> | <audio controls src="/assets/WSRGLOW_norm/3_p363_010_4.wav"></audio> | <audio controls src="/assets/AUDIOSR_sliced/p363_010_g_audiosr_sliced.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p363_010.wav"></audio> | <audio controls src="/assets/GTHIGH_norm/1_p363_010.wav"></audio> |
 | ![Subtitle 6 Image](/assets/GTLOW_pngs/p363_010.png) | ![Subtitle 7 Image](/assets/WSRGLOW_pngs/p363_010.png) | ![Subtitle 8 Image](/assets/AUDIOSR_sliced_pngs/p363_010_g_audiosr_sliced.png) | ![Subtitle 9 Image](/assets/OURS_pngs/p363_010.png) | ![Subtitle 10 Image](/assets/GTHIGH_pngs/p363_010.png) |
 
 
