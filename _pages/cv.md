@@ -6,7 +6,9 @@ permalink: /cv/
 ---
 
 ### Education
-* B.S. in Statistics, Korea University, 2021 - Present
+* M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), 2025.03 - Present (Up-and-Coming)
+* B.S. in Statistics, Korea University, 2021.03 - 2025.2 (Expected)
+  
 
 
 ### Publications
