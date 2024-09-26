@@ -119,9 +119,6 @@ author:
   location         : "Hanam-si, Gyeonggi-Do, South Korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "infected4098@korea.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://infected4098.github.io"
