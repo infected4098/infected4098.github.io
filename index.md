@@ -10,3 +10,5 @@ Hi, my name is Yongjoon Lee (이용준, 李庸準). I am a senior student majori
 
 
 ## News
+
+Our paper Wave-U-Mamba is accepted to ICASSP 2025! 
